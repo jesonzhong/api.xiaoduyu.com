@@ -1,0 +1,3 @@
+F:\dev\api.xiaoduyu.com\obj\Debug\xiaoduyu.njsproj.CoreCompileInputs.cache
+F:\dev\api.xiaoduyu.com\bin\Microsoft.NodejsTools.WebRole.dll
+F:\dev\api.xiaoduyu.com\obj\Debug\xiaoduyu.njsprojResolveAssemblyReference.cache
